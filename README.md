@@ -18,7 +18,6 @@ I specialize in building applications with **Flutter (Frontend), Python (Backend
 
 ### 📊 GitHub Stats  
 ![Randy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandyIbarra&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RandyIbarra&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RandyIbarra&layout=compact&theme=tokyonight)  
 
 ### 🎯 Work to Live  
