@@ -1,8 +1,22 @@
 ## 👋 Hey there! I'm Randy Osbaldo Ibarra Cayo  
 
-### 🚀 Full Stack Developer | Flutter | Python | Firebase  
+<table>
+<tr>
+<td width="80%">
+
+### 🚀 Full Stack Developer 
+ Flutter | Python | Firebase  
 
 I specialize in building applications with **Flutter (Frontend), Python (Backend), and Firebase (Cloud Services)**. Currently, I'm focused on polishing my general **software development skills** and growing as a developer.
+
+</td>
+<td width="20%">
+
+<img src="https://github.com/user-attachments/assets/32d626f8-aa98-4bc9-9269-aa03c814df75" alt="randy" width="200">
+
+</td>
+</tr>
+</table>
 
 ### 💼 Professional Experience  
 #### Rentier  
