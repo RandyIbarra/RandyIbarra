@@ -12,7 +12,8 @@ I specialize in building applications with **Flutter (Frontend), Python (Backend
 </td>
 <td width="20%">
 
-<img src="https://github.com/user-attachments/assets/32d626f8-aa98-4bc9-9269-aa03c814df75" alt="randy" width="200">
+![WhatsApp Image 2025-07-15 at 22 30 13](https://github.com/user-attachments/assets/cf9c6d9e-6569-41b9-b527-26c222627cf1)
+
 
 </td>
 </tr>
